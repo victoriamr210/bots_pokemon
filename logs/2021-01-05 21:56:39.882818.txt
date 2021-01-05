@@ -1,0 +1,172 @@
+switch landorustherianmov: earthquake | ground
+turn: 1| score: None
+---------------------------------------
+switch excadrill
+turn: 2| score: 70.0
+---------------------------------------
+mov: ironhead | steel
+turn: 3| score: 0.0
+---------------------------------------
+switch landorustherian
+turn: 4| score: 55.03
+---------------------------------------
+switch hydreigon
+turn: 5| score: 0.0
+---------------------------------------
+switch jirachi
+turn: 6| score: -6.15
+---------------------------------------
+mov: ironhead | steel
+turn: 7| score: 0.0
+---------------------------------------
+switch excadrill
+turn: 8| score: 26.0
+---------------------------------------
+switch landorustherian
+turn: 9| score: 0.0
+---------------------------------------
+mov: hiddenpowerice70 | ice
+turn: 10| score: 0.0
+---------------------------------------
+mov: hiddenpowerice70 | ice
+turn: 11| score: -19.88
+---------------------------------------
+switch hydreigon
+turn: 12| score: 16.0
+---------------------------------------
+mov: taunt | dark
+turn: 13| score: -28.62
+---------------------------------------
+mov: fireblast | fire
+turn: 14| score: -6.15
+---------------------------------------
+switch landorustherian
+turn: 15| score: -6.15
+---------------------------------------
+switch hydreigon
+turn: 16| score: 0.0
+---------------------------------------
+mov: uturn | bug
+turn: 17| score: -52.92
+---------------------------------------
+mov: scald | water
+turn: 18| score: 22.0
+---------------------------------------
+switch jirachi
+turn: 19| score: 30.0
+---------------------------------------
+switch virizion
+turn: 20| score: 0.0
+---------------------------------------
+switch jellicent
+turn: 21| score: -6.19
+---------------------------------------
+mov: recover | normal
+turn: 22| score: 0.0
+---------------------------------------
+switch excadrill
+turn: 23| score: 0.0
+---------------------------------------
+mov: rockslide | rock
+turn: 24| score: -70.47
+---------------------------------------
+mov: ironhead | steel
+turn: 25| score: 0.03
+---------------------------------------
+switch jirachi
+turn: 26| score: 61.03
+---------------------------------------
+mov: wish | normal
+turn: 27| score: 0.0
+---------------------------------------
+mov: thunderwave | electric
+turn: 28| score: -18.56
+---------------------------------------
+switch virizion
+turn: 29| score: 18.56
+---------------------------------------
+mov: synthesis | grass
+turn: 30| score: -1.19
+---------------------------------------
+switch jirachi
+turn: 31| score: -59.13
+---------------------------------------
+mov: thunderwave | electric
+turn: 32| score: 0.0
+---------------------------------------
+mov: ironhead | steel
+turn: 33| score: -33.42
+---------------------------------------
+mov: stealthrock | rock
+turn: 34| score: 57.19
+---------------------------------------
+switch jellicent
+turn: 35| score: -0.5
+---------------------------------------
+mov: taunt | dark
+turn: 36| score: 0.0
+---------------------------------------
+switch excadrill
+turn: 37| score: 0.0
+---------------------------------------
+switch jirachi
+turn: 38| score: -44.6
+---------------------------------------
+switch landorustherian
+turn: 39| score: -27.97
+---------------------------------------
+mov: stoneedge | rock
+turn: 40| score: 0.0
+---------------------------------------
+switch excadrill
+turn: 41| score: 19.0
+---------------------------------------
+switch landorustherian
+turn: 42| score: 12.0
+---------------------------------------
+switch virizion
+turn: 43| score: -35.94
+---------------------------------------
+switch excadrill
+turn: 44| score: -26.63
+---------------------------------------
+switch virizion
+turn: 45| score: -20.78
+---------------------------------------
+switch jellicent
+turn: 46| score: 11.14
+---------------------------------------
+switch landorustherian
+turn: 47| score: 0.0
+---------------------------------------
+mov: stoneedge | rock
+turn: 48| score: 12.0
+---------------------------------------
+switch excadrill
+turn: 49| score: 37.0
+---------------------------------------
+mov: willowisp | fire
+turn: 50| score: -4.71
+---------------------------------------
+mov: willowisp | fire
+turn: 51| score: 25.0
+---------------------------------------
+mov: scald | water
+turn: 52| score: 18.0
+---------------------------------------
+switch landorustherian
+turn: 53| score: 50.0
+---------------------------------------
+mov: stoneedge | rock
+turn: 54| score: 12.0
+---------------------------------------
+mov: thunderwave | electric
+turn: 55| score: -29.19
+---------------------------------------
+mov: thunderwave | electric
+turn: 56| score: 6.19
+---------------------------------------
+mov: ironhead | steel
+turn: 57| score: -19.55
+---------------------------------------
+winner: 60.47

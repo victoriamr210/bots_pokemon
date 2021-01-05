@@ -1,0 +1,172 @@
+switch scizormov: swordsdance | normal
+turn: 1| score: None
+---------------------------------------
+mov: swordsdance | normal
+turn: 2| score: -70.17
+---------------------------------------
+switch dragonite
+turn: 3| score: 0.0
+---------------------------------------
+mov: earthquake | ground
+turn: 4| score: -56.63
+---------------------------------------
+switch tyranitar
+turn: 5| score: 0.0
+---------------------------------------
+switch reuniclus
+turn: 6| score: 6.0
+---------------------------------------
+mov: focusblast | fighting
+turn: 7| score: 0.0
+---------------------------------------
+switch rotomwash
+turn: 8| score: -26.18
+---------------------------------------
+switch scizor
+turn: 9| score: 0.0
+---------------------------------------
+mov: bugbite | bug
+turn: 10| score: 0.0
+---------------------------------------
+switch reuniclus
+turn: 11| score: 18.8
+---------------------------------------
+mov: shadowball | ghost
+turn: 12| score: -16.51
+---------------------------------------
+switch rotomwash
+turn: 13| score: 28.0
+---------------------------------------
+switch landorustherian
+turn: 14| score: 6.0
+---------------------------------------
+switch tyranitar
+turn: 15| score: 7.0
+---------------------------------------
+mov: superpower | fighting
+turn: 16| score: 0.0
+---------------------------------------
+switch rotomwash
+turn: 17| score: 53.0
+---------------------------------------
+switch dragonite
+turn: 18| score: -22.7
+---------------------------------------
+switch tyranitar
+turn: 19| score: -30.34
+---------------------------------------
+switch rotomwash
+turn: 20| score: 0.0
+---------------------------------------
+switch tyranitar
+turn: 21| score: 6.0
+---------------------------------------
+mov: pursuit | dark
+turn: 22| score: 0.0
+---------------------------------------
+mov: pursuit | dark
+turn: 23| score: 0.0
+---------------------------------------
+switch landorustherian
+turn: 24| score: 70.0
+---------------------------------------
+mov: uturn | bug
+turn: 25| score: -0.21
+---------------------------------------
+switch rotomwash
+turn: 26| score: -61.47
+---------------------------------------
+mov: hydropump | water
+turn: 27| score: 0.0
+---------------------------------------
+switch tyranitar
+turn: 28| score: 18.0
+---------------------------------------
+switch dragonite
+turn: 29| score: -18.0
+---------------------------------------
+mov: uturn | bug
+turn: 30| score: 1.98
+---------------------------------------
+switch scizor
+turn: 31| score: 59.0
+---------------------------------------
+mov: bugbite | bug
+turn: 32| score: 0.0
+---------------------------------------
+switch tyranitar
+turn: 33| score: 33.0
+---------------------------------------
+mov: icebeam | ice
+turn: 34| score: -57.61
+---------------------------------------
+switch reuniclus
+turn: 35| score: 0.0
+---------------------------------------
+mov: trickroom | psychic
+turn: 36| score: 0.0
+---------------------------------------
+mov: psychic | psychic
+turn: 37| score: 0.0
+---------------------------------------
+mov: focusblast | fighting
+turn: 38| score: 45.0
+---------------------------------------
+mov: trickroom | psychic
+turn: 39| score: 28.0
+---------------------------------------
+switch landorustherian
+turn: 40| score: 0.0
+---------------------------------------
+switch tyranitar
+turn: 41| score: -18.32
+---------------------------------------
+mov: crunch | dark
+turn: 42| score: -12.32
+---------------------------------------
+mov: crunch | dark
+turn: 43| score: 36.0
+---------------------------------------
+mov: crunch | dark
+turn: 44| score: 27.0
+---------------------------------------
+switch rotomwash
+turn: 45| score: 21.0
+---------------------------------------
+switch reuniclus
+turn: 46| score: -10.5
+---------------------------------------
+switch scizor
+turn: 47| score: 0.0
+---------------------------------------
+switch reuniclus
+turn: 48| score: -12.2
+---------------------------------------
+mov: focusblast | fighting
+turn: 49| score: -36.32
+---------------------------------------
+switch rotomwash
+turn: 50| score: 5.0
+---------------------------------------
+switch scizor
+turn: 51| score: -25.0
+---------------------------------------
+switch tyranitar
+turn: 52| score: -17.92
+---------------------------------------
+mov: willowisp | fire
+turn: 53| score: -48.57
+---------------------------------------
+mov: hydropump | water
+turn: 54| score: -12.5
+---------------------------------------
+mov: trickroom | psychic
+turn: 55| score: 30.7
+---------------------------------------
+mov: shadowball | ghost
+turn: 56| score: -6.0
+---------------------------------------
+mov: trickroom | psychic
+turn: 57| score: 20.0
+---------------------------------------
+winner: 20.99
